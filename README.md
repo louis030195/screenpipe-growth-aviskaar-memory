@@ -400,6 +400,17 @@ results = await cognee.search("Tell me about Alice")
 
 ---
 
+### Screenpipe
+
+> Searchable screen text and audio history captured locally across desktop apps, giving MCP clients context for recall of past work and meetings.
+
+- **GitHub**: https://github.com/screenpipe/screenpipe
+- **MCP setup**: https://github.com/screenpipe/screenpipe/tree/main/packages/screenpipe-mcp
+
+The source is available under the [Screenpipe Commercial License](https://github.com/screenpipe/screenpipe/blob/main/LICENSE.md). Configured cloud AI, transcription, sync and integrations can send context off-device, including history retrieved by an assistant through MCP.
+
+---
+
 ## 🤖 Agent Frameworks with Memory
 
 ### LangChain + LangMem
